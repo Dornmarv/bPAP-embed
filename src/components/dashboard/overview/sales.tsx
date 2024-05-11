@@ -34,7 +34,7 @@ export function Sales({ chartSeries, sx }: SalesProps): React.JSX.Element {
         title="bPAP"
       />
       <CardContent>
-      <iframe width="1400" height="550" frameborder="0" scrolling="no" src="https://onedrive.live.com/embed?resid=1CCA559729EF366B%21113&authkey=%21AGigT-s-2TBUfyc&em=2&AllowTyping=True&ActiveCell='User'!P1&wdDownloadButton=True&wdInConfigurator=True&wdInConfigurator=True"></iframe>
+      <iframe width="1400" height="550" frameBorder="0" scrolling="no" src="https://onedrive.live.com/embed?resid=1CCA559729EF366B%21113&authkey=%21AGigT-s-2TBUfyc&em=2&AllowTyping=True&ActiveCell='User'!P1&wdDownloadButton=True&wdInConfigurator=True&wdInConfigurator=True"></iframe>
       </CardContent>
       <Divider />
      {/*  <CardActions sx={{ justifyContent: 'flex-end' }}>
